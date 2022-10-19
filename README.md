@@ -52,18 +52,6 @@ git push
 
 After you have pushed your work to your repository, please visit the repository at the GitHub website (you may have to log-in using your browser) to verify that your files were correctly sent.
 
-## Instructions
-
-Please see your notes and the slides from today's course for notes on how to complete code for each of the tasks below.
-
-+ Create a database to contain the following information.
-  - ID
-  - Organism
-  - DNASeq
-  - Protseq
-+ Add at least four rows of data (this data can be real or made-up)
-+ Offer two queries to two different types of information from the data.
-
 ### Deliverable
 
 Please complete the sections of the File: `writing/reflection.md`
